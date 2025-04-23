@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "PoGVM1HJItwBTyOsyutXmTQ1ExsJB6LUZOyuLH5tBCY=",
+  "Source": "StudentTracker",
+  "BasePath": "_content/StudentTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

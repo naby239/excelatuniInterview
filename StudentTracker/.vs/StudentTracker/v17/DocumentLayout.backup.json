@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ExcelAtUni\\StudentTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\models\\studentrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\models\\studentrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\manager\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\manager\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\manager\\interfaces\\istudentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\manager\\interfaces\\istudentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\entities\\enrolment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\entities\\enrolment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\repositories\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\repositories\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|c:\\excelatuni\\studenttracker\\studenttracker\\studenttracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E29D2B65-F8F2-4A1F-B849-1C1CEC8956D7}|StudentTracker\\StudentTracker.csproj|solutionrelative:studenttracker\\studenttracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRequestModel.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Models\\StudentRequestModel.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Models\\StudentRequestModel.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Models\\StudentRequestModel.cs",
+              "RelativeToolTip": "StudentTracker\\Models\\StudentRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:25:48.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentTracker\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:58:30.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentTracker\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:41:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentManager.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Manager\\Interfaces\\IStudentManager.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Manager\\Interfaces\\IStudentManager.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Manager\\Interfaces\\IStudentManager.cs",
+              "RelativeToolTip": "StudentTracker\\Manager\\Interfaces\\IStudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:38:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Manager\\StudentManager.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Manager\\StudentManager.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Manager\\StudentManager.cs",
+              "RelativeToolTip": "StudentTracker\\Manager\\StudentManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:38:16.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrolment.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Entities\\Enrolment.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Entities\\Enrolment.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Entities\\Enrolment.cs",
+              "RelativeToolTip": "StudentTracker\\Entities\\Enrolment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:26:22.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentTracker\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:39:03.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Program.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Program.cs",
+              "RelativeToolTip": "StudentTracker\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:34:44.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentTracker\\appsettings.json",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\appsettings.json",
+              "RelativeToolTip": "StudentTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T15:34:26.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Entities\\Student.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTracker\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:23:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentTracker",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\StudentTracker.csproj",
+              "RelativeDocumentMoniker": "StudentTracker\\StudentTracker.csproj",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\StudentTracker.csproj",
+              "RelativeToolTip": "StudentTracker\\StudentTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T15:31:15.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Repositories\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "StudentTracker\\Repositories\\Context\\DataContext.cs",
+              "ToolTip": "C:\\ExcelAtUni\\StudentTracker\\StudentTracker\\Repositories\\Context\\DataContext.cs",
+              "RelativeToolTip": "StudentTracker\\Repositories\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:31:08.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
